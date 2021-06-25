@@ -14,7 +14,7 @@
 * Figma / Sketch 
 
 💖 Además, realizo **apuntes** sobre algunas tecnologías que estuve aprendiendo.
- Pronto estaran disponibles en: [Jaz Eyza](https://tender-banach-062994.netlify.app/). 
+ Pronto estaran disponibles en: [Jaz Eyza](https://jazmintrujillo.netlify.app/). 
 
 🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
