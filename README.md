@@ -1,20 +1,21 @@
 # Hi! 👋🏼 soy Jaz. 
 
-###  Front-end developer. 
+###  Krainee Software Engineer. 
 
 
-💪🏼 Actualmente estoy estudiando para mejorar **MERN STACK**.
+💪🏼 Actualmente soy parte del gran equipo de [Kranio](https://www.kranio.io/)
 
-🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
+🕵 Me encanta aprender, entre lo que he estudiado hasta ahora están: 
 
 * HTML
 * CSS
 * JavaScript
 * Python
 * Figma / Sketch 
+* AWS 
 
 💖 Además, realizo **apuntes** sobre algunas tecnologías que estuve aprendiendo.
- Pronto estaran disponibles en: [Jaz Eyza](https://jazmintrujillo.netlify.app/). 
+ Disponibles en: [Notas](https://www.notion.so/Notes-d8ad71c4ac2e499cba6db3c173ce9145). 
 
 🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
 
