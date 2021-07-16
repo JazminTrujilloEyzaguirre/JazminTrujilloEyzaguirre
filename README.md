@@ -3,9 +3,9 @@
 ###  Krainee Software Engineer. 
 
 
-💪�🏼 I am currently part of the great Kranio team
+💪  I am currently part of the great Kranio team
 
-🕵 I love learning, among what I have studied so far are:
+🕵  I love learning, among what I have studied so far are:
 
 HTML
 CSS
@@ -14,11 +14,11 @@ Python
 Figma / Sketch
 AWS
 
-💖 In addition, I make notes about some technologies that I have been learning. Available in: Notes.
+💖  In addition, I make notes about some technologies that I have been learning. Available in: Notes.
 
-🌸 I like design in general and I try to incorporate it in some way in everything I do.
+🌸  I like design in general and I try to incorporate it in some way in everything I do.
 
-👩🏻 My hobbies include: trekking, creating Spotify playlists, watching aoe tournaments and reading.
+👩🏻  My hobbies include: trekking, creating Spotify playlists, watching aoe tournaments and reading.
 
 
 
