@@ -3,23 +3,22 @@
 ###  Krainee Software Engineer. 
 
 
-💪🏼 Actualmente soy parte del gran equipo de [Kranio](https://www.kranio.io/)
+💪�🏼 I am currently part of the great Kranio team
 
-🕵 Me encanta aprender, entre lo que he estudiado hasta ahora están: 
+🕵 I love learning, among what I have studied so far are:
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* Figma / Sketch 
-* AWS 
+HTML
+CSS
+JavaScript
+Python
+Figma / Sketch
+AWS
 
-💖 Además, realizo **apuntes** sobre algunas tecnologías que estuve aprendiendo.
- Disponibles en: [Notas](https://www.notion.so/Notes-d8ad71c4ac2e499cba6db3c173ce9145). 
+💖 In addition, I make notes about some technologies that I have been learning. Available in: Notes.
 
-🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
+🌸 I like design in general and I try to incorporate it in some way in everything I do.
 
-👩🏻 Entre mis hobbies se encuentran: trekking, crear playlist de Spotify, mirar torneos de aoe, dibujar en CSS y leer.
+👩🏻 My hobbies include: trekking, creating Spotify playlists, watching aoe tournaments and reading.
 
 
 
