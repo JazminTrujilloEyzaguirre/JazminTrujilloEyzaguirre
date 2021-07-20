@@ -2,24 +2,14 @@
 
 ###  Krainee Software Engineer. 
 
+### A few quick facts
+- 🔭 &nbsp; I am currently part of the great Kranio team
+- 🌱 &nbsp; I’m currently learning AWS
+- 😄 &nbsp; My hobbies include: trekking, creating Spotify playlists, watching aoe tournaments and reading.
+- 💬 &nbsp; Ask me about anything, I am happy to help
 
-💪  I am currently part of the great Kranio team
 
-🕵  I love learning, among what I have studied so far are:
-
-HTML
-CSS
-JavaScript
-Python
-Figma / Sketch
-AWS
-
-💖  In addition, I make notes about some technologies that I have been learning. Available in: Notes.
-
-🌸  I like design in general and I try to incorporate it in some way in everything I do.
-
-👩🏻  My hobbies include: trekking, creating Spotify playlists, watching aoe tournaments and reading.
-
+Find me on [Linkedin](https://www.linkedin.com/in/jazm%C3%ADn-jahaziel-trujillo-a4380919a/)
 
 
 <!--
