@@ -3,9 +3,10 @@
 ###  Krainee Software Engineer. 
 
 ### A few quick facts
-- 🔭 &nbsp; I am currently part of the great Kranio team
-- 🌱 &nbsp; I’m currently learning AWS
-- 😄 &nbsp; My hobbies include: trekking, creating Spotify playlists, watching aoe tournaments and reading.
+- 🔭 &nbsp; I am currently part of the great [Kranio](https://www.kranio.io/) team
+- 🌱 &nbsp; I’m currently learning AWS, to see notes click [here](https://parsiomnium.notion.site/Apuntes-AWS-45d2f08759da443093543a8812b6d74a) 
+- ⚡ &nbsp; This is [my first Article](https://www.kranio.io/blog/aplicacion-con-aws-amplify) about AWS 
+- 😄 &nbsp; My hobbies include: trekking, creating study notes, watching aoe tournaments and reading.
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
 
