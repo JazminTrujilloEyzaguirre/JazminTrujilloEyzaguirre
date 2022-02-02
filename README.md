@@ -4,7 +4,7 @@
 
 ### A few quick facts
 - 🔭 &nbsp; I am currently part of the great [Kranio](https://www.kranio.io/) team
-- 🌱 &nbsp; I’m currently learning AWS, to see notes click [here](https://parsiomnium.notion.site/Apuntes-AWS-45d2f08759da443093543a8812b6d74a) 
+- 🌱 &nbsp; I’m currently learning AWS, to see notes click [here](https://parsiomnium.notion.site/Welcome-821ad0c5da2143c6abd1e720c7868612) 
 - ⚡ &nbsp; This is [my first Article](https://www.kranio.io/blog/aplicacion-con-aws-amplify) about AWS 
 - 😄 &nbsp; My hobbies include: trekking, creating study notes, watching aoe tournaments and reading.
 - 💬 &nbsp; Ask me about anything, I am happy to help
