@@ -1,4 +1,4 @@
-# Hi! 👋🏼 soy Jaz. 
+# Hi! 👋🏼 I am Jaz. 
 
 ###  Krainee Software Engineer. 
 
