@@ -1,6 +1,6 @@
 # Hi! 👋🏼 I am Jaz. 
 
-###  Krainee Software Engineer. 
+###  Software Engineer. 
 
 ### A few quick facts
 - 🔭 &nbsp; I am currently part of the great [Kranio](https://www.kranio.io/) team
