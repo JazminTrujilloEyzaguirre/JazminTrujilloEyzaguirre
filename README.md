@@ -3,9 +3,12 @@
 ###  Software Engineer. 
 
 ### A few quick facts
-- 🔭 &nbsp; I am currently part of the great [Kranio](https://www.kranio.io/) team
-- 🌱 &nbsp; I’m currently learning AWS, to see notes click [here](https://parsiomnium.notion.site/Welcome-821ad0c5da2143c6abd1e720c7868612) 
-- ⚡ &nbsp; This is [my first Article](https://www.kranio.io/blog/aplicacion-con-aws-amplify) about AWS 
+- 🔭 &nbsp; I am currently part of the great [Kranio](https://www.kranio.io/) team.
+- 🌱 &nbsp; I have experience mainly in AWS (S3, EC2, Api-Gateway, Apmplify, Cloudformation, Cloudwatch, DynamoDB, SQS, SNS, EventBridge, Elasticache for Redis) also serverless Framework applying it in microservices in NodeJS, Python and Java.
+- My personal notes click [here](https://parsiomnium.notion.site/Welcome-821ad0c5da2143c6abd1e720c7868612) 
+- ⚡ &nbsp; I wrote two articles about aws: 
+- On cloudwatch metrics [here](https://www.kranio.io/blog/metricas-y-alarmas-de-recursos-aws). 
+- On AWS Amplify for building applications quickly with AWS cloudformation [here](https://www.kranio.io/blog/aplicacion-con-aws-amplify).
 - 😄 &nbsp; My hobbies include: trekking, creating study notes, watching aoe tournaments and reading.
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
